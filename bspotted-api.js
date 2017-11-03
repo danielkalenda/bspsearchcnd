@@ -14,6 +14,7 @@
    */
   function BspottedAPI(data) {
     this.data = data;
+    console.log(data);
 
     /**
      * Returns true if Bspotted response is valid (i.e. contains no errors but valid data).

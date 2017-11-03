@@ -37,7 +37,8 @@
         city: this.data.city,
         tel: this.data.tel,
         email: this.data.email,
-        rating: this.data.rating
+        rating: this.data.rating,
+        web: this.data.website
       };
     };
 
